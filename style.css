@@ -1,0 +1,21 @@
+body{
+    background: rgba(18, 158, 214, 0.664);
+}
+h1{ 
+    text-align: center;
+    
+}
+p{
+    font-size: medium;
+    color:black;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    margin-right: 70px !important;
+    margin-left: 30px !important;
+    border: Spx solid black;
+}
